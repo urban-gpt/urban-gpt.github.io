@@ -1,2 +1,2 @@
 # UrbanGPT
-code will be update soon!
+code link: [UrbanGPT: Spatio-Temporal Large Language Models](https://github.com/HKUDS/UrbanGPT)
